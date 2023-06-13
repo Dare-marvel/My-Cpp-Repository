@@ -9,3 +9,4 @@
 8. [List](https://www.geeksforgeeks.org/list-cpp-stl/)
 9. [Map](https://www.geeksforgeeks.org/map-associative-containers-the-c-standard-template-library-stl/)
 10. [Functors](https://www.geeksforgeeks.org/functors-in-cpp/)
+11. [Exception Handling](https://www.geeksforgeeks.org/exception-handling-c/)
